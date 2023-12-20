@@ -1,3 +1,15 @@
+// Accepted
+// Editorial
+// Solution
+// Runtime
+// Details
+// 16ms
+// Beats 36.85%of users with C++
+// Memory
+// Details
+// 12.58MB
+// Beats 97.04%of users with C++
+
 #include <iostream>
 #include <vector>
 
